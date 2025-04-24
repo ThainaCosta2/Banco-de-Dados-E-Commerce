@@ -1,4 +1,4 @@
-# Banco de Dados E-Commerce
+# Banco de Dados E-Commerce 🛢
 
 - Criação da estrutura de um banco de dados (tabelas) com a linguagem SQL por meio de um diagrama entidade relacionamento pré-definidos.
 - Inserir dados no banco de dados criado.
@@ -8,7 +8,7 @@
   <img src="Banco de Dados/DER.png" width="500px">
 </div>
 
-# Como funciona:
+# Como funciona: 🎯
 <div>
   <ul>
     <li>Criei uma base de dados chamada 'Loja' utilizando MySQL Server por meio do MySQL Workbench. Para isso, adicionei as estruturas de dados necessárias nesse banco, utilizando os comandos de definição de dados (DDL) da linguagem SQL, conforme o modelo que está definido no Diagrama Entidade-Relacionamento (DER) que eu tenho.
@@ -19,7 +19,7 @@
   </ul>
 </div>
   
-# Tecnologias Utilizadas:
+# Tecnologias Utilizadas: ⚙️
 <table>
   <thead>
     <td> <b>SQL:</b> Utilizada para a criação da estrutura do banco de dados, inserção de dados e consultas.</td>

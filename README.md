@@ -29,19 +29,11 @@
 </table>
 
 # Tecnologias Utilizadas: ⚙️
-<table>
-  <thead>
-    <td> <b>SQL:</b> Utilizada para a criação da estrutura do banco de dados, inserção de dados e consultas.</td>
-  </thead>
-  <tbody>
-    <thead>
-      <td> <b>MySQL Community Server:</b> Usado como o SGBD para armazenar e gerenciar os dados do projeto.</td>
-    </thead>
-    <thead>
-      <td> <b>Diagrama Entidade-Relacionamento (DER):</b> Ferramenta para modelagem da estrutura do banco de dados.</td>
-    </thead>
-    <thead>
-      <td> <b>MySQL Workbench:</b> Ferramenta utilizada para design, desenvolvimento e administração do banco de dados MySQL.</td>
-    </thead>
-  </tbody>
-</table>
+
+- <b>SQL:</b> Utilizada para a criação da estrutura do banco de dados, inserção de dados e consultas.
+ 
+- <b>MySQL Community Server:</b> Usado como o SGBD para armazenar e gerenciar os dados do projeto.
+
+- <b>Diagrama Entidade-Relacionamento (DER):</b> Ferramenta para modelagem da estrutura do banco de dados.
+
+-  <b>MySQL Workbench:</b> Ferramenta utilizada para design, desenvolvimento e administração do banco de dados MySQL.

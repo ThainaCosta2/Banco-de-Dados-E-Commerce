@@ -1,5 +1,4 @@
 # Banco de Dados E-Commerce 🛢
-
 - Neste projeto, desenvolvi a estrutura de um banco de dados utilizando a linguagem SQL, seguindo um Diagrama Entidade-Relacionamento previamente definido. Após a criação das tabelas, inseri dados no banco de dados que configurei. Em seguida, executei consultas nos dados armazenados por meio da criação de uma visão (VIEW), o que me possibilitou examinar as informações de maneira estruturada e clara.
 
 <div>
